@@ -19,13 +19,12 @@
  Prepariamo una card per ciascun attore/attrice, mostrandone le seguenti informazioni:
  
  
-nome
-anno nascita
+nome 
+anno nascita 
 nazionalità
-biografia
+biografia 
 immagine
 riconoscimenti
-immagine
 
 #### MILESTONE 3
 
